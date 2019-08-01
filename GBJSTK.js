@@ -424,7 +424,7 @@ function gbGetUser ()
 	gbGetRequest ( "goodbarber://getuser" );
 }
 
-/* Function : gbGetUser
+/* Function : gbLogs
 *  Console log a string. Usefull to log in native iOS with NSLogs
 */
 function gbLogs( log )
