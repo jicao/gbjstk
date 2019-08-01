@@ -439,7 +439,7 @@ function gbLogs( log )
 	}
 }
 
-/* Function : gbGetUser
+/* Function : gbAlert
 *  Display an alert
 */
 function gbAlert( title, message )
